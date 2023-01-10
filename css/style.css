@@ -1,0 +1,28 @@
+.header{
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+body {
+  background-color: #d4d0fb;
+}
+
+hr {
+  border-style: none;
+  background-color: #c0ccc0;
+  border-color: grey;
+  border-top-style: dotted;
+  width: 40px;
+  border-width: 6px;
+}
+h1{
+  color: #aa4488;
+  font-family: cursive;
+}
+h2{
+  color: #635666;
+}
+h3{
+  color: #635666;
+}
